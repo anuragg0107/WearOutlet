@@ -1,1 +1,1 @@
-# Blogging-Redux
+# WearOutlet
